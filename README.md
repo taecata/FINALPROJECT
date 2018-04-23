@@ -1,6 +1,9 @@
 Final Project- Interactive Graphics and Critical Code
+
 Name: Tae Markey 
+
 Date: April 18th 2018 
+
 Project: ... tbd
 
 Conceptual Description
